@@ -1,5 +1,5 @@
 """
-ASGI config for Internet_Shop project.
+ASGI config for internetshop project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
