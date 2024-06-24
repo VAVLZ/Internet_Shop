@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="148f61cf-d9ba-4f70-b0a4-4ff3a8bbd64b" name="Changes" comment="Вторая версия сайта." />
+    <list default="true" id="148f61cf-d9ba-4f70-b0a4-4ff3a8bbd64b" name="Changes" comment="Третья версия сайта.">
+      <change afterPath="$PROJECT_DIR$/Internet_Shop/Shop/static/monowheel.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Internet_Shop/Shop/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internet_Shop/Internet_Shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Internet_Shop/Internet_Shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internet_Shop/Shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Internet_Shop/Shop/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internet_Shop/Shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Internet_Shop/Shop/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internet_Shop/Shop/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Internet_Shop/Shop/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internet_Shop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Internet_Shop/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,16 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alesw/PycharmProjects/Internet_Shop&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/alesw/PycharmProjects/Internet_Shop/Internet_Shop/Shop/static"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alesw\PycharmProjects\Internet_Shop\Internet_Shop\Shop\static" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Internet_Shop" />
@@ -98,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719236673775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Третья версия сайта.">
+      <option name="closed" value="true" />
+      <created>1719236858345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719236858345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первая версия сайта." />
     <MESSAGE value="Вторая версия сайта." />
-    <option name="LAST_COMMIT_MESSAGE" value="Вторая версия сайта." />
+    <MESSAGE value="Третья версия сайта." />
+    <option name="LAST_COMMIT_MESSAGE" value="Третья версия сайта." />
   </component>
 </project>
